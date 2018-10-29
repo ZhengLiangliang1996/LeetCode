@@ -34,11 +34,11 @@ public class Permutation {
 	}
 
 	public static void main(String[] args) {
-		int [] a = {1,2,3};
-		List<List<Integer>> res = permute(a);
-		System.out.println(res.size());
+//		int [] a = {1,2,3};
+//		List<List<Integer>> res = permute(a);
+//		System.out.println(res.size());
 //		for (int i = 0; i < res.size(); i++) {
-//			for (int j = 0; j < res.; j++) {
+//			for (int j = 0; j < ; j++) {
 //				
 //			}
 //		}
