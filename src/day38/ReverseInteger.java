@@ -14,6 +14,6 @@ public class ReverseInteger {
 	public static void main(String[] args) {
 		System.out.println(reverse(1534236469));
 		System.out.println(reverse(-120));
-		System.out.println(0 * 10 + 123 % 10);
+		//System.out.println(0 * 10 + 123 % 10);
 	}
 }
