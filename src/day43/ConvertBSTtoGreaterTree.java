@@ -2,6 +2,7 @@ package day43;
 
 public class ConvertBSTtoGreaterTree {
      int sum = 0;
+    
 	public  TreeNode convertBST(TreeNode root) {
 		//recursive
 		if(root == null) return null;
@@ -11,6 +12,8 @@ public class ConvertBSTtoGreaterTree {
 		convertBST(root.left);
 		return root;
 	}
+	
+	
 	
 	public  void main(String[] args) {
 		TreeNode rooTreeNode = new TreeNode(5);
