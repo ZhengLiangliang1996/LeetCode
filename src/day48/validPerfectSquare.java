@@ -1,6 +1,5 @@
 package day48;
 
-import javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction;
 
 public class validPerfectSquare {
 	
