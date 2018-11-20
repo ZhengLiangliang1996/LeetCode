@@ -2,7 +2,6 @@ package day51;
 
 
 public class ReverseLinkedList {
-	
 	public ListNode reverseList(ListNode head) {
         ListNode pre = null;
         ListNode next = null;
