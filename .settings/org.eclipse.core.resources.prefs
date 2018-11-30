@@ -1,4 +1,4 @@
-#Wed Nov 28 23:21:51 CET 2018
+#Fri Nov 30 23:07:07 CET 2018
 eclipse.preferences.version=1
 encoding//src/day1/ReversePolishNotation.java=UTF-8
 encoding//src/day10/SubDomainVisitCount.java=UTF-8
@@ -18,4 +18,5 @@ encoding//src/day55/GuessNumberHigherOrLower.java=UTF-8
 encoding//src/day55/reverseBetween.java=UTF-8
 encoding//src/day58/SpiralMatrix.java=UTF-8
 encoding//src/day6/KeyboeardRow.java=UTF-8
+encoding//src/day60/printRandM.java=UTF-8
 encoding//src/day7/ToeplitzMatrix.java=UTF-8
